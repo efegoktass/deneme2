@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"sa","temp":"msg","event-type":"2","actions":[{"message":"1","varName":"msg","info":"2","storage":"1","varName2":"text","name":"Store Message Info"},{"storage":"1","varName":"text","comparison":"6","value":"sa","iftrue":"0","iftrueVal":"","iffalse":"1","iffalseVal":"","name":"Check Variable"},{"channel":"4","varName":"","message":"Aleyküm Selam, **hoşgeldin!** :stars:","storage":"0","varName2":"","name":"Send Message"}],"_id":"HTnNe"}]
